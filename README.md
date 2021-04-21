@@ -1,11 +1,11 @@
 # React Tutorial Basic 
 
-* Purpose: Review React Tutorial what I learned at college
-* Contents
-- Set up dev environment: Install NPM basics
-- Creat React App: npx create-react-app 'app name'
-- Folder tree, JSX rules, Pros, List, Key props, event basics, import and export, deployment and etc.
-- toy project: book list
+## Purpose: Review React Tutorial what I learned at college
+## Contents
+*  Set up dev environment: Install NPM basics
+* Creat React App: npx create-react-app 'app name'
+* Folder tree, JSX rules, Pros, List, Key props, event basics, import and export, deployment and etc.
+* toy project: book list
 
 [React Tutorial Basic](distracted-kirch-1493c4.netlify.app).
 
