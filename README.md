@@ -6,6 +6,7 @@
 * Creat React App: npx create-react-app 'app name'
 * Folder tree, JSX rules, Pros, List, Key props, event basics, import and export, deployment and etc.
 * toy project: book list
+* * Deployed on [Netlify](https://app.netlify.com/)
 
 [React Tutorial Basic](distracted-kirch-1493c4.netlify.app).
 
@@ -29,4 +30,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-* Deployed on Netlify
+
