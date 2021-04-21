@@ -1,6 +1,6 @@
 # React Tutorial Basic 
 
-## Purpose: Review React Tutorial what I learned at college
+## Purpose: Review React Basics what I learned at college
 ## Contents
 *  Set up dev environment: Install NPM basics
 * Creat React App: npx create-react-app 'app name'
